@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/menu_menu_main.xml.flat",
+        "source": "com.example.pdfreader.app-main-38:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.pdfreader.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.pdfreader.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.pdfreader.app-pngs-32:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.pdfreader.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/raw_shannon1948.pdf.flat",
+        "source": "com.example.pdfreader.app-main-38:/raw/shannon1948.pdf"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/navigation_nav_graph.xml.flat",
+        "source": "com.example.pdfreader.app-main-38:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.pdfreader.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pdfreader.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.pdfreader.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
